@@ -93,7 +93,8 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 
 
 ## optimal value function 
-![image](https://github.com/user-attachments/assets/71c92da0-2128-449d-9802-4ba1382afe8d)
+![image](https://github.com/user-attachments/assets/dba0eb8f-aa96-4926-99e8-0a6f0e5729c4)
+
 
 
 ## success rate for the optimal policy
